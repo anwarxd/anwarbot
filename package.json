@@ -1,0 +1,11 @@
+{
+  "name": "lamia",
+  "version": "1.0.0",
+  "description": "Lamia Bot Discord For Manage Your Server",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
